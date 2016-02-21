@@ -1,0 +1,20 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.jumbotron {
+	background: url(https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg);
+}
+.header li {
+	display: inline;
+}
+.btn {
+  background-color:#333;
+  color:#fff;
+  font-family:'Raleway', sans-serif;
+  font-weight:600;
+  font-size:18px;
+  letter-spacing:1.3px;
+  padding:16px 40px;
+  text-decoration:none;
+  text-transform:uppercase;
+}
